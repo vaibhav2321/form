@@ -1,0 +1,17 @@
+
+  h1{
+    color: blue;
+    text-align: center;
+  }
+  form{
+    text-align: center;
+  }
+  div{
+    border: 2px solid;
+    width: 400px;
+    height: 350px;
+    margin-left: 500px;
+    margin-top: 150px;
+    background-color: aqua;
+  }
+
